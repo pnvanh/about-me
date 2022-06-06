@@ -9,7 +9,7 @@ Description
 <!-- Add badges with link to Shields IO -->
 # Restaurant Flutter
 <!-- Add a demo for your project -->
-![Banner]([https://github.com/pnvanh/about-me/blob/main/cover.png](https://i.snipboard.io/SmxRwh.jpg))
+![Banner](https://i.snipboard.io/SmxRwh.jpg)
 Description
 
 # Table of contents
