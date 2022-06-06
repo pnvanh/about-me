@@ -9,8 +9,10 @@ Description
 <!-- Add badges with link to Shields IO -->
 # Restaurant Flutter
 <!-- Add a demo for your project -->
-![](https://i.snipboard.io/SmxRwh.jpg)
-![]([app/src/main/res/drawable/refrence_image2.png](https://i.snipboard.io/SmxRwh.jpg))
+<p align="center">
+  <img src="https://i.snipboard.io/SmxRwh.jpg" width="350" title="hover text">
+  <img src="https://i.snipboard.io/SmxRwh.jpg" width="350" alt="accessibility text">
+</p>
 
 Description
 
