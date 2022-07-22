@@ -15,6 +15,5 @@ struct AnhPhan {
   static let fullName: String = "Anh Phan Ngoc Viet"
   var age: Int = 23
   var languages:[String] = ["Swift", "Dart", "Javascript", "PHP"]
-  var frameworks:[String] = ["SwiftUI", "RxSwift", "Flutter"]
 }
 ```
