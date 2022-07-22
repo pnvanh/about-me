@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-<h2> Hi, I'm Anh Phan! <img src="https://i.stack.imgur.com/kOnzy.gif)" width="20"></h2>
+<h2> Hi👋, I'm Anh Phan! <img src="https://i.stack.imgur.com/kOnzy.gif)" width="20"></h2>
 <img align='right' src="https://i.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/200w.webp" width="230">
 <p>
   <em>👨‍💻 Software Enginner at <a href="https://vku.udn.vn/">Vietnam - Korea University of Information and Communication Technology</a>
@@ -11,9 +11,10 @@
 ### About me ...  
 
 ```swift
-struct AnhPhan {
+struct Bio {
   static let fullName: String = "Anh Phan Ngoc Viet"
-  var age: Int = 23
-  var languages:[String] = ["Swift", "Dart", "Javascript", "PHP"]
+  var username: String = "pnvanh"
+  var location: String = "Da Nang, Viet Nam"
+  var learning:[String] = ["Swift", "Dart", "Javascript"]
 }
 ```
