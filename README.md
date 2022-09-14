@@ -12,9 +12,14 @@
 
 ```swift
 struct Bio {
-  static let fullName: String = "Anh Phan Ngoc Viet"
-  var username: String = "pnvanh"
-  var location: String = "Da Nang, Viet Nam"
-  var learning:[String] = ["Swift", "Dart", "Javascript"]
+  static let fullName: String = "Anh Phan"
+  var mainLanguage = "
+          __,
+         (           o  /) _/_
+          `.  , , , ,  //  /
+        (___)(_(_/_(_ //_ (__
+                     /)
+                    (/
+        "
 }
 ```
