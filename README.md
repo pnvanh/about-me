@@ -13,7 +13,7 @@
 ```swift
 struct Bio {
   static let fullName: String = "Anh Phan"
-  var mainLanguage = "
+  var language = "
           __,
          (           o  /) _/_
           `.  , , , ,  //  /
