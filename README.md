@@ -12,7 +12,7 @@
 
 ```swift
 struct Bio {
-  static let fullName: String = "Anh Phan"
+  static let name: String = "Anh Phan"
   var language = "
           __,
          (           o  /) _/_
